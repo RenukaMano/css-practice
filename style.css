@@ -4,14 +4,16 @@ header {
 }
 
 div {
-  background-color: white;
+  background-color: rgb(203, 233, 229);
 }
 
 header {
   text-align: center;
   padding: 2rem;
 }
-
+p {
+  background-color: azure;
+}
 .task-1 {
   border: solid;
   padding: 1rem;
@@ -58,4 +60,7 @@ header {
 }
 .task-6 p {
   padding: 1rem;
+}
+#flex {
+	display: flex;
 }
